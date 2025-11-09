@@ -30,7 +30,7 @@ Model Evaluation – Evaluate using accuracy and F1-score.
 Insights – Identify which factors impact learner completion the most.
 
 📊 Dataset
-Source: Kaggle - Predict Online Course Engagement Dataset
+Source: Kaggle - https://www.kaggle.com/datasets/rabieelkharoua/predict-online-course-engagement-dataset
 Target Variable: completed (1 = Completed, 0 = Not Completed)
 
 🚀 How to Run
